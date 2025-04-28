@@ -22,6 +22,6 @@ License
 This project is licensed under the MIT License.
 
 Author
-This project was created by [Your Name].
+This project was created by Surajo Garba.
 
 This README provides a brief overview of the project, its requirements, installation, usage, license, and author. It is important to include this information in your README so that others can easily understand and use your project.
